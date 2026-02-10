@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi 👋 I'm Poojitha Reddy
 
-<!--
-**Poojithareddy485/Poojithareddy485** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Learning Java, Data Structures & Cyber Security  
+📚 Interested in Software Development  
 
-Here are some ideas to get you started:
+### 👩‍💻 About Me
+- 🔭 Currently working on **Java and DSA practice**
+- 🌱 Currently learning **DSA, Cyber Security basics, and Git**
+- 👯 Open to **beginner-friendly Java projects**
+- 💬 Ask me about **Java basics and college CS subjects**
+- ⚡ Fun fact: **I enjoy studying late at night with tea ☕**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- Java  
+- Data Structures  
+- Git & GitHub  
+- Cyber Security Basics  
