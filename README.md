@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Poojitha Reddy
 
 🎓 Computer Science Student  
-💻 Learning Java, Data Structures & Cyber Security  
+💻 Learning Java,python,Data Structures & Cyber Security  
 📚 Interested in Software Development  
 
 ### 👩‍💻 About Me
